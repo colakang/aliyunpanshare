@@ -1,4 +1,4 @@
-// https://github.com/open-sauced/goals-template/blob/main/.github/workflows/sync-2-upstream.yml
+#https://github.com/open-sauced/goals-template/blob/main/.github/workflows/sync-2-upstream.yml
 
 name: Sync to Upstream
 
